@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0220/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0220/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶長夜之府九幽玉匱明真科
+  date: '2015-08-29 03:00:19.970091'
+  source:
+    repository: kanripo
+    path: KR5g0220
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0220_000-HFL.yaml, hash: 'sha256:76275b6eb02f99d529ab301b8cc328b63458a18feb0ac3cb79cd135e10ebdbb0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0220_000-HFL.markers.yaml, hash: 'sha256:636e9025d1cd67b0841e778eec7c5cc89458b6f678fb027cb235f1388a4746c1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0220_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 6743
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f596319927fe63e0c05d5eb850b1e21e00511d908c2515338637af4c3d4e2d78
